@@ -1,1 +1,1 @@
-return {playerlist={flowingpoint={mana=200,regen=1,remainder=0,hudid=0,maxmana=200}}}
+return {playerlist={flowingpoint={regen=1,remainder=0,mana=200,maxmana=200,hudid=0}}}
