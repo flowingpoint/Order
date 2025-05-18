@@ -1,1 +1,1 @@
-return {playerlist={flowingpoint={regen=1,mana=200,remainder=0,maxmana=200,hudid=0}}}
+local _={};_[1]="remainder";_[2]="maxmana";return {playerlist={singleplayer={regen=1,mana=200,[_[2]]=200,hudid=0,[_[1]]=0},flowingpoint={regen=1,mana=200,[_[2]]=200,hudid=0,[_[1]]=0}}}

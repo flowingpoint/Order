@@ -171,3 +171,6 @@ load_mod_hud_analog_clock = mods/hud_analog_clock
 load_mod_obsidianstuff = false
 load_mod_bridgetool = false
 load_mod_shop = false
+load_mod_e = false
+load_mod_dmobs = false
+load_mod_realclocks = false
