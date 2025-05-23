@@ -1,1 +1,1 @@
-local _={};_[1]="remainder";_[2]="maxmana";return {playerlist={singleplayer={regen=1,mana=200,[_[2]]=200,hudid=0,[_[1]]=0},flowingpoint={regen=1,mana=200,[_[2]]=200,hudid=0,[_[1]]=0}}}
+local _={};_[1]="maxmana";_[2]="remainder";return {playerlist={singleplayer={[_[1]]=200,hudid=0,[_[2]]=0,regen=1,mana=200},flowingpoint={[_[1]]=200,hudid=0,[_[2]]=0,regen=1,mana=200}}}
