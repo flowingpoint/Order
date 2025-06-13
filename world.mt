@@ -174,3 +174,5 @@ load_mod_e = false
 load_mod_dmobs = false
 load_mod_realclocks = false
 load_mod_noter = false
+load_mod_potions_and_magic = false
+load_mod_placeable_buckets = false
