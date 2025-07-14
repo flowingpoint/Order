@@ -1,7 +1,7 @@
 day_count = 1189
 lbm_introduction_times = xpanes:gen2~1134463;
 lbm_introduction_times_version = 1
+time_of_day = 17897
 last_clear_objects_time = 0
-time_of_day = 10404
-game_time = 1156930
+game_time = 1157304
 EnvArgsEnd
