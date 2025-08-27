@@ -11,3 +11,4 @@ load_mod_worldedit_gui = mods/worldedit/worldedit_gui
 load_mod_worldedit = mods/worldedit/worldedit
 load_mod_complex.lua-master = false
 load_mod_illumination = mods/illumination
+load_mod_meshport = mods/meshport
