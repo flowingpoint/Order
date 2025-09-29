@@ -1,1 +1,0 @@
-5:local _={};_[1]="inventory";_[2]="stones:blush";return {{z=0,x=0,y=0,param2=3,meta={fields={},[_[1]]={}},name=_[2],param1=157},{z=1,x=0,y=0,param2=2,meta={fields={},[_[1]]={}},name=_[2],param1=142},{z=0,x=1,y=0,param2=1,meta={fields={},[_[1]]={}},name=_[2],param1=141},{z=1,x=1,y=0,meta={fields={},[_[1]]={}},name=_[2],param1=157}}

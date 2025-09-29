@@ -1,1 +1,0 @@
-5:local _={};_[1]="stones:diagsteps_52lv";return {{name=_[1],x=0,z=0,param1=189,y=0},{name=_[1],x=0,z=1,param1=174,y=0}}
