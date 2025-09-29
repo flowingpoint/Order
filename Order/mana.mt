@@ -1,0 +1,1 @@
+local _={};_[1]="maxmana";_[2]="remainder";return {playerlist={flowingpoint={[_[1]]=200,hudid=0,mana=200,regen=1,[_[2]]=0},singleplayer={[_[1]]=200,hudid=0,mana=200,regen=1,[_[2]]=0},floatingpoint={[_[1]]=200,hudid=0,mana=200,regen=1,[_[2]]=0}}}
