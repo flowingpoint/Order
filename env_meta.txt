@@ -1,7 +1,7 @@
-day_count = 1583
+day_count = 1596
 lbm_introduction_times = 
 lbm_introduction_times_version = 1
 last_clear_objects_time = 0
-time_of_day = 17189
-game_time = 1585597
+time_of_day = 8956
+game_time = 1600744
 EnvArgsEnd
