@@ -1,0 +1,7 @@
+# Created using Meshport (https://github.com/random-geek/meshport).
+
+newmtl roch.png
+map_Kd /home/flowingpoint/.minetest/games/RSWO/mods/stones/textures/roch.png
+
+newmtl window.png
+map_Kd /home/flowingpoint/.minetest/games/RSWO/mods/tool/textures/window.png
